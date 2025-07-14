@@ -11,7 +11,7 @@ Some of the things, I enjoy doing,
 - Statistical Modeling
 - Data Visualization
 - Maps
-- WebApps
+- Shiny Apps
 
 You can find more info about me on my [portfolio](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html).
 
