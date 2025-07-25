@@ -13,7 +13,7 @@ Some of the things, I enjoy doing,
 - Maps
 - Shiny Apps
 
-You can find more info about me on my [portfolio](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html).
+You can find more info about me on my [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html).
 
 ----
 
