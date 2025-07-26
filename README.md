@@ -12,6 +12,7 @@ Some of the things, I enjoy doing,
 - Data Visualization
 - Maps
 - Shiny Apps
+- Feed my AI curiosity all the time!
 
 You can find more info about me on my [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html).
 
