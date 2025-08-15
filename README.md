@@ -9,6 +9,7 @@ Some of the things, I enjoy doing,
 
 - Machine Learning
 - Statistical Modeling
+- Time Series Analysis
 - Data Visualization
 - Maps
 - Shiny Apps
