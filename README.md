@@ -1,21 +1,26 @@
 <img src="images/formula.jpeg" width="100%" align="center"/></a>
 
 ## Hi there, I'm Joseph <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=joseph-data.joseph-data&theme=flat)
 
-I am a statistician and data scientist🛠️. I mainly write code in R and Python, and try to explore Julia sometimes. Most of my documentation is written in Quarto as I enjoy the flexibility of executing code in a mix of text, and it allows me to switch between Python and R seamlessly!
+I’m a statistician and data scientist🛠️ who enjoys working at the intersection of data, modeling, and meaningful applications. I mainly write code in R and Python, and I occasionally explore other web development languages. Most of my documentation is written in Quarto, which I love for its flexibility—it allows me to blend bare texts with executable codes and switch seamlessly between Python and R.
 
-Some of the things I enjoy doing,
+Some of the things I enjoy working on:
 
-- Machine Learning
-- Statistical Modeling
-- Time Series Analysis
-- Data Visualization
-- Maps
-- Shiny Apps
-- Feed my AI curiosity all the time!
+🤖 Machine Learning
 
-You can find more info about me on my [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html).
+📈 Statistical Modeling
+
+⏳ Time Series Analysis
+
+📊 Data Visualization
+
+🗺️ Maps & Spatial Data
+
+💻 Shiny Apps
+
+🧠 Feeding my AI curiosity
+
+Here is my ➡️ [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html), though I updated it occasionally.
 
 ----
 
