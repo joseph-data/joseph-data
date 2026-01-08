@@ -20,7 +20,7 @@ Some of the things I enjoy working on:
 
 🧠 Feeding my AI curiosity
 
-Here is my ➡️ [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html), though I updated it occasionally.
+Here is my ➡️ [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html), though I it's updated occasionally.
 
 ----
 
