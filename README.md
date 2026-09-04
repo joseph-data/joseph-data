@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Joseph <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I’m a statistician and data scientist🛠️ who enjoys working at the intersection of data, modeling, and meaningful applications. I mainly write code in R and Python, and I occasionally explore other web development languages. Most of my documentation is written in Quarto, which I love for its flexibility—it allows me to blend bare texts with executable codes and switch seamlessly between Python and R.
+I am a statistician and data scientist 🛠️ who enjoys working at the intersection of data, modelling and meaningful applications. I mainly write code in R and Python, and I occasionally explore other web development languages. Most of my documentation is written in Quarto, which I love for its flexibility, as it allows me to blend bare text with executable code and switch seamlessly between Python and R.
 
 Some of the things I enjoy working on:
 
@@ -20,9 +20,9 @@ Some of the things I enjoy working on:
 
 🧠 Feeding my AI curiosity
 
-Here is my ➡️ [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html), though it's updated occasionally.
+Here is my ➡️ [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html), though it is updated occasionally.
 
-----
+---
 
 ## Tools Used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
