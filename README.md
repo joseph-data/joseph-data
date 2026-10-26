@@ -34,7 +34,6 @@ Here is my ➡️ [Personal Website](https://joseph-data.quarto.pub/joseph-nyaju
 ![Shiny](https://img.shields.io/badge/Shiny-00A8E8?style=flat-square&logo=rstudio&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFAE35?style=flat-square&logo=huggingface&logoColor=white)
 
+---
 
-
-
-
+![Profile views](https://komarev.com/ghpvc/?username=joseph-data&style=flat-square&color=2D77BB&label=Profile+views)
