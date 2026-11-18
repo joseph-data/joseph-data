@@ -4,24 +4,6 @@
 
 I am a statistician and data scientist 🛠️ who enjoys working at the intersection of data, modelling and meaningful applications. I mainly write code in R and Python, and I occasionally explore other web development languages. Most of my documentation is written in Quarto, which I love for its flexibility, as it allows me to blend bare text with executable code and switch seamlessly between Python and R.
 
-Some of the things I enjoy working on:
-
-🤖 Machine Learning
-
-📈 Statistical Modeling
-
-⏳ Time Series Analysis
-
-📊 Data Visualization
-
-🗺️ Maps & Spatial Data
-
-💻 Shiny Apps
-
-🧠 Feeding my AI curiosity
-
-Here is my ➡️ [Personal Website](https://joseph-data.quarto.pub/joseph-nyajuoga/about.html), though it is updated occasionally.
-
 ---
 
 ## Tools Used
